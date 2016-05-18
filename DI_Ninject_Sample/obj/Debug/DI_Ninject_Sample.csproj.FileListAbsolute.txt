@@ -1,0 +1,1 @@
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\upmce_di_sample\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.exe.config
