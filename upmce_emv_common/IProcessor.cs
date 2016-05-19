@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace upmce_emv_common
 {
-    class IProcessor
+    public interface IProcessor
     {
-        static void Main(string[] args)
-        {
-        }
+        string Process(string processParams);
     }
 }
