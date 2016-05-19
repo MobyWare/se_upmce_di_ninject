@@ -15,6 +15,10 @@ namespace DI_Ninject_Sample
         {
             var kernel = new StandardKernel();
             kernel.Load(System.Reflection.Assembly.GetExecutingAssembly());
+
+            var concreteProcessor = kernel.Get<IProcessor>();
+            Console.WriteLine(concreteProcessor.Process());
+            Console.ReadLine();
         }
     }
 }

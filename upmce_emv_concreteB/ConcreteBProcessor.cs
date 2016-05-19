@@ -9,12 +9,18 @@ namespace upmce_emv_concreteB
 {
     public class ConcreteBProcessor : IProcessor
     {
+
+        public ConcreteBProcessor() { }
+
+        string IProcessor.Process()
+        {
+            return string.Format("Processed by {0}.", this.GetType().Name);
+        }
+
         string IProcessor.Process(string processParams)
         {
             string processor = this.GetType().Name;
-            string processorResponse =  string.Format("Processed by {0}.", processor);
-            Console.WriteLine(processorResponse);
-            return processorResponse;
+            return string.Format("Processed by {0} with parameters {1}", processor, processParams);
         }
     }
 }

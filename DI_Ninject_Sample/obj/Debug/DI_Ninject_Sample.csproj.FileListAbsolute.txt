@@ -1,3 +1,16 @@
 C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\upmce_di_sample\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.exe.config
 C:\Users\dickm\Documents\Projects\UPMCdotNETCommunity\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.exe.config
 C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.exe.config
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\obj\Debug\DI_Ninject_Sample.csprojResolveAssemblyReference.cache
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.exe
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\DI_Ninject_Sample.pdb
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\Ninject.dll
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_common.dll
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\Ninject.xml
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_common.pdb
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\obj\Debug\DI_Ninject_Sample.exe
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\obj\Debug\DI_Ninject_Sample.pdb
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_concreteA.dll
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_concreteB.dll
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_concreteA.pdb
+C:\Users\dickm\Documents\Projects\UPMCdotNet\DevProjects\repos\se_upmce_di_ninject\DI_Ninject_Sample\bin\Debug\upmce_emv_concreteB.pdb

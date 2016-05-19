@@ -9,5 +9,6 @@ namespace upmce_emv_common
     public interface IProcessor
     {
         string Process(string processParams);
+        string Process();
     }
 }

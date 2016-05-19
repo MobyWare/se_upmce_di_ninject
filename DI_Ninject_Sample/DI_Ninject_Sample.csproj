@@ -48,8 +48,17 @@
     <Reference Include="upmce_emv_common">
       <HintPath>..\upmce_emv_common\bin\Debug\upmce_emv_common.dll</HintPath>
     </Reference>
+    <Reference Include="upmce_emv_concreteA, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\upmce_emv_concreteA\bin\Debug\upmce_emv_concreteA.dll</HintPath>
+    </Reference>
+    <Reference Include="upmce_emv_concreteB, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\upmce_emv_concreteB\bin\Debug\upmce_emv_concreteB.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EMVBindings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
