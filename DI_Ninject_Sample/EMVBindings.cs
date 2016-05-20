@@ -16,7 +16,8 @@ namespace DI_Ninject_Sample
 
         public override void Load()
         {
-            Bind<IProcessor>().To<ConcreteBProcessor>();
+            Bind<IProcessor>().To<ConcreteAProcessor>();
+            
         }
     }
 }

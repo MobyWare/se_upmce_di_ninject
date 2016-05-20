@@ -15,6 +15,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upmce_emv_concreteB", "upmce_emv_concreteB\upmce_emv_concreteB.csproj", "{9736625D-6399-47C3-B483-A173DE40276F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upmce_emv_tests", "upmce_emv_tests\upmce_emv_tests.csproj", "{FE242D03-9B38-4E62-9210-5EE809A1326C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D2A125B4-8C36-48BC-B339-E7615EDBD961} = {D2A125B4-8C36-48BC-B339-E7615EDBD961}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

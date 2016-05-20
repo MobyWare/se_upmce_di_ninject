@@ -38,7 +38,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="upmce_emv_common">
+    <Reference Include="upmce_emv_common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\upmce_emv_common\bin\Debug\upmce_emv_common.dll</HintPath>
     </Reference>
   </ItemGroup>
