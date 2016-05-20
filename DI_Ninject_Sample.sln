@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upmce_emv_tests", "upmce_em
 		{D2A125B4-8C36-48BC-B339-E7615EDBD961} = {D2A125B4-8C36-48BC-B339-E7615EDBD961}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upmce_web_processor_client", "upmce_web_processor_client\upmce_web_processor_client.csproj", "{8DCF4AC7-0AAF-4BCE-AC9D-4A4C6BBD3BC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FE242D03-9B38-4E62-9210-5EE809A1326C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE242D03-9B38-4E62-9210-5EE809A1326C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE242D03-9B38-4E62-9210-5EE809A1326C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCF4AC7-0AAF-4BCE-AC9D-4A4C6BBD3BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCF4AC7-0AAF-4BCE-AC9D-4A4C6BBD3BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCF4AC7-0AAF-4BCE-AC9D-4A4C6BBD3BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCF4AC7-0AAF-4BCE-AC9D-4A4C6BBD3BC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
