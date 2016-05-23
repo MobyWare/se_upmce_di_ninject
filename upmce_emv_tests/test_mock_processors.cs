@@ -56,7 +56,7 @@ namespace upmce_emv_tests
         {
             try
             {
-                var dll = Assembly.LoadFile("upmce_emv_tests.dll");
+                var dll = Assembly.LoadFile(string.Format(@"{0}\upmce_emv_tests.dll", Environment.CurrentDirectory));
                 Type localType = typeof(TestAProcessor);
 
                 localType = dll.GetTypes().Where(t => localType.IsAssignableFrom(t)).FirstOrDefault();
